@@ -23,7 +23,7 @@
     },
     {
         "title": "Propsales",
-        "company": "Pacific Garden",
+        "company": "Pacific Garden (PT. Kumara Lalita - Pacific Garden Group)",
         "image": "projectimg/propsales.png",
         "tech": [
             {
@@ -57,7 +57,7 @@
     },
     {
         "title": "RentalSTU",
-        "company": "Pacific Garden",
+        "company": "Sinergi Talenta Utama (Pacific Garden Group)",
         "image": "projectimg/rentalstu.png",
         "tech": [
             {
@@ -74,7 +74,7 @@
     },
     {
         "title": "Prospecta",
-        "company": "Pacific Garden",
+        "company": "PT. Kumara Lalita (Pacific Garden Group)",
         "image": "projectimg/prospecta.jpg",
         "tech": [
             {
@@ -108,6 +108,113 @@
             {
                 "name": "PostgreSQL",
                 "icon": "devicon-postgresql-plain",
+                "color": "badge-yellow"
+            }
+        ]
+    },
+    {
+        "title": "Procurement & Finance System",
+        "company": "Pacific Garden Group - PT. Indopasifik Makmur, PT. Kumara Lalita, PT. Sinergi Talenta Utama, PT. Iki Gapura Mandiri, PT. Wahana Persada Suksesindo",
+        "image": "projectimg/prms.png",
+        "tech": [
+            {
+                "name": "CodeIgniter 3",
+                "icon": "devicon-codeigniter-plain",
+                "color": "badge-blue"
+            },
+            {
+                "name": "MySQL",
+                "icon": "devicon-mysql-plain",
+                "color": "badge-yellow"
+            }
+        ]
+    },
+    {
+        "title": "Sistem Informasi PAD Kab.Bogor",
+        "company": "Bappeda Kab.Bogor",
+        "image": "projectimg/padbogor.png",
+        "tech": [
+          
+             {
+                "name": "CodeIgniter 3",
+                "icon": "devicon-codeigniter-plain",
+                "color": "badge-blue"
+            },
+            {
+                "name": "PostgreSQL",
+                "icon": "devicon-postgresql-plain",
+                "color": "badge-yellow"
+            }
+        ]
+    },
+    {
+        "title": "Sistem Informasi PAD Kab.Banjar",
+        "company": "Bappeda Kab.Banjar",
+        "image": "projectimg/padbanjar.png",
+        "tech": [
+          
+             {
+                "name": "CodeIgniter 3",
+                "icon": "devicon-codeigniter-plain",
+                "color": "badge-blue"
+            },
+            {
+                "name": "PostgreSQL",
+                "icon": "devicon-postgresql-plain",
+                "color": "badge-yellow"
+            }
+        ]
+    },
+      {
+        "title": "E-retribusi Depok",
+        "company": "Bappeda Kota Depok",
+        "image": "projectimg/eretdepok.png",
+        "tech": [
+          
+             {
+                "name": "CodeIgniter 3",
+                "icon": "devicon-codeigniter-plain",
+                "color": "badge-blue"
+            },
+            {
+                "name": "PostgreSQL",
+                "icon": "devicon-postgresql-plain",
+                "color": "badge-yellow"
+            }
+        ]
+    },
+    {
+        "title": "Mobile Epbb Depok",
+        "company": "Bappeda Kota Depok",
+        "image": "projectimg/mobileepbb.png",
+        "tech": [
+          
+             {
+                "name": "CodeIgniter 3",
+                "icon": "devicon-codeigniter-plain",
+                "color": "badge-blue"
+            },
+            {
+                "name": "Oracle",
+                "icon": "devicon-oracle-original",
+                "color": "badge-yellow"
+            }
+        ]
+    },
+{
+        "title": "Sistem Informasi Pramuka Depok",
+        "company": "Pramuka Kota Depok",
+        "image": "projectimg/pramukadepok.png",
+        "tech": [
+          
+             {
+                "name": "CodeIgniter 3",
+                "icon": "devicon-codeigniter-plain",
+                "color": "badge-blue"
+            },
+            {
+                "name": "MySQL",
+                "icon": "devicon-mysql-original",
                 "color": "badge-yellow"
             }
         ]
