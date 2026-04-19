@@ -1,0 +1,20 @@
+[
+
+  {
+    "title": "Building Management System",
+    "company": "Pacific Garden",
+    "image": "projectimg/bms-capture.png",
+    "tech": [
+      {
+        "name": "PHP",
+        "icon": "devicon-php-plain",
+        "color": "badge-blue"
+      },
+      {
+        "name": "MySQL",
+        "icon": "devicon-mysql-plain",
+        "color": "badge-yellow"
+      }
+    ]
+  }
+]
