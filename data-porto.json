@@ -1,20 +1,115 @@
 [
-
-  {
-    "title": "Building Management System",
-    "company": "Pacific Garden",
-    "image": "projectimg/bms-capture.png",
-    "tech": [
-      {
-        "name": "PHP",
-        "icon": "devicon-php-plain",
-        "color": "badge-blue"
-      },
-      {
-        "name": "MySQL",
-        "icon": "devicon-mysql-plain",
-        "color": "badge-yellow"
-      }
-    ]
-  }
+    {
+        "title": "Building Management System",
+        "company": "Pacific Garden",
+        "image": "projectimg/bms-capture.png",
+        "tech": [
+            {
+                "name": "CodeIgniter 3",
+                "icon": "devicon-codeigniter-plain",
+                "color": "badge-blue"
+            },
+            {
+                "name": "Laravel",
+                "icon": "devicon-laravel-plain",
+                "color": "badge-blue"
+            },
+            {
+                "name": "PostgreSQL",
+                "icon": "devicon-postgresql-plain",
+                "color": "badge-yellow"
+            }
+        ]
+    },
+    {
+        "title": "Propsales",
+        "company": "Pacific Garden",
+        "image": "projectimg/propsales.png",
+        "tech": [
+            {
+                "name": "CodeIgniter 3",
+                "icon": "devicon-codeigniter-plain",
+                "color": "badge-blue"
+            },
+            {
+                "name": "MySQL",
+                "icon": "devicon-mysql-plain",
+                "color": "badge-yellow"
+            }
+        ]
+    },
+   {
+        "title": "Commercial Management System",
+        "company": "Pacific Garden",
+        "image": "projectimg/cmapps.png",
+        "tech": [
+            {
+                "name": "CodeIgniter 3",
+                "icon": "devicon-codeigniter-plain",
+                "color": "badge-blue"
+            },
+            {
+                "name": "MySQL",
+                "icon": "devicon-mysql-plain",
+                "color": "badge-yellow"
+            }
+        ]
+    },
+    {
+        "title": "RentalSTU",
+        "company": "Pacific Garden",
+        "image": "projectimg/rentalstu.png",
+        "tech": [
+            {
+                "name": "CodeIgniter 3",
+                "icon": "devicon-codeigniter-plain",
+                "color": "badge-blue"
+            },
+            {
+                "name": "PostgreSQL",
+                "icon": "devicon-postgresql-plain",
+                "color": "badge-yellow"
+            }
+        ]
+    },
+    {
+        "title": "Prospecta",
+        "company": "Pacific Garden",
+        "image": "projectimg/prospecta.jpg",
+        "tech": [
+            {
+                "name": "Flutter",
+                "icon": "devicon-flutter-plain",
+                "color": "badge-blue"
+            },
+             {
+                "name": "Laravel",
+                "icon": "devicon-laravel-plain",
+                "color": "badge-blue"
+            },
+            {
+                "name": "MySql",
+                "icon": "devicon-mysql-plain",
+                "color": "badge-yellow"
+            }
+        ]
+    },
+    {
+        "title": "Pglife",
+        "company": "Pacific Garden",
+        "image": "projectimg/pglife.jpg",
+        "tech": [
+          
+             {
+                "name": "CodeIgniter 3",
+                "icon": "devicon-codeigniter-plain",
+                "color": "badge-blue"
+            },
+            {
+                "name": "PostgreSQL",
+                "icon": "devicon-postgresql-plain",
+                "color": "badge-yellow"
+            }
+        ]
+    }
 ]
